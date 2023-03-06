@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DylanTheGreatest
+- 👋 Hi, I’m @EthanPlayerOne
 - 👀 I’m interested in python, discord bots and data since
 - 🌱 I’m currently learning c++ and pandas
 - 💞️ I’m not looking to collaborate on.
