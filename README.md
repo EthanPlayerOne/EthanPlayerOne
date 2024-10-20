@@ -1,6 +1,6 @@
 уээээээээээээээээ))))
  <br><br>
-писать онли в дс: @ethanplayerone
+писать онли в дс: @zephyr.30
 
 <!---
 EthanPlayerOne/EthanPlayerOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
